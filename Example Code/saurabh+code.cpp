@@ -75,6 +75,5 @@ int32_t main()
 	while (t--) solve();
 
 	cerr << "Run Time : " << ((double)(clock() - z) / CLOCKS_PER_SEC);
-
 	return 0;
 }
